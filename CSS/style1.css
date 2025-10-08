@@ -1,0 +1,71 @@
+.header {
+    position: relative;
+    background-color: antiquewhite;
+    border: ridge 3px rgb(203, 168, 101);
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    margin-right: 35%;
+    padding: 15px 15px 10px 50px;
+
+}
+
+.headpic {
+    text-align: center;
+}
+
+.head_chapters {
+    border: ridge 3px rgb(203, 168, 101);
+    position: fixed;
+    right: 0;
+    margin-right: 50px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.chapters {
+    border: ridge 3px rgb(230, 211, 177);
+    background-color: cornsilk;
+    margin-left: 100px;
+    margin-right: 35%;
+    padding: 20px 20px 15px 15px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.numberbookhead {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.chapinside {
+    display: flex;
+    flex-direction: row-reverse;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.notes {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+body {
+    background-image: url(lotrimg.jpeg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
