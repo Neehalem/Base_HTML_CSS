@@ -1,0 +1,21 @@
+table {
+    text-align: center;
+    border: solid 1px;
+    border-color: black;
+    border-collapse: collapse;
+    margin: 10px 10px 10px 10px;
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 500px;
+}
+
+td {
+    border: solid 1px;
+    border-color: black;
+    padding: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
